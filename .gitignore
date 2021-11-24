@@ -3,3 +3,7 @@ Library
 Temp
 .idea
 Logs
+.vs
+.vsconfig
+TestAddressables.sln
+Assembly-CSharp.csproj
