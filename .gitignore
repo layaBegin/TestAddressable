@@ -2,8 +2,11 @@
 Library
 Temp
 .idea
-Logs
+/Logs
 .vs
 .vsconfig
 TestAddressables.sln
 Assembly-CSharp.csproj
+obj/Debug/TempPE/
+/Library/
+/Temp/
